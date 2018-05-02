@@ -1,2 +1,3 @@
 # git-github
-Exercise
+This is for tutorial purpose.
+
